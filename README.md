@@ -1,8 +1,42 @@
-# React + Vite
+# Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The Employee Management System is a web application built using React that allows users to manage employee records efficiently. The system provides functionalities such as adding, updating, deleting, and viewing employee details.
 
-Currently, two official plugins are available:
+## Features
+- Add new employees with details such as name, position, department, and contact information.
+- Update employee records.
+- Delete employee records.
+- View a list of all employees.
+- Search and filter employees.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Tailwind CSS / Bootstrap (for styling)
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/GayathriKomma/employee-management-system.git
+   cd employee-management-system
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+
+
+## Usage
+- Open the application in your browser.
+- Register or log in to manage employee data.
+- Use the dashboard to add, edit, and view employee information.
+
+## Contact
+For any queries, feel free to reach out:
+- Email: gayathrikomma309@gmail.com
+- LinkedIn: [Gayathri Komma](https://linkedin.com/in/gayathri-komma-3aa335302)
+- GitHub: [GayathriKomma](https://github.com/GayathriKomma)
